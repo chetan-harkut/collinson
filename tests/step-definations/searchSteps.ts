@@ -1,4 +1,4 @@
-// searchSteps.ts (cleaned up and extended)
+// searchSteps.ts 
 
 import { Given, When, Then } from '@cucumber/cucumber';
 import { expect } from 'chai';
