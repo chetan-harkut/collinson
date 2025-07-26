@@ -1,5 +1,3 @@
-// searchSteps.ts 
-
 import { Given, When, Then } from '@cucumber/cucumber';
 import { expect } from 'chai';
 import { browser, $, $$ } from '@wdio/globals';
